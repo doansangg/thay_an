@@ -2,9 +2,11 @@
 
   ```
 pip install -r requirements.txt
+pip install python3.6-tk
   ```
-  
-## 3. Run 
+**NOTE**
+python3.6-tk   : python vesion user now
+## 2. Run 
   ```
 python main_inteface.py
   ```
